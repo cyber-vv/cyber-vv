@@ -1,5 +1,5 @@
 # 👾 Welcome to the Matrix
-|[Infinite](https://jollycontrarian.com/images/7/70/Matrix_rain.gif)
+
 ```diff
 + SYSTEM ONLINE...
 + ACCESS GRANTED...
@@ -40,6 +40,6 @@
 
 🚀 **Welcome to the Dark Side of Code.**
 
-
+[Infinite](https://jollycontrarian.com/images/7/70/Matrix_rain.gif)
 
 
