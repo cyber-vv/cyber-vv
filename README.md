@@ -40,3 +40,5 @@
 
 🚀 **Welcome to the Dark Side of Code.**
 
+![Matrix Rain]([https://media.giphy.com/media/3o6ZsYm5M2lfT8m3Uo/giphy.gif](https://jollycontrarian.com/images/7/70/Matrix_rain.gif))
+
