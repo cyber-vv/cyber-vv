@@ -40,5 +40,5 @@
 
 🚀 **Welcome to the Dark Side of Code.**
 
-![Matrix Rain](https://jollycontrarian.com/images/7/70/Matrix_rain.gif)
+![Matrix Rain](https://andrewhungblog.wordpress.com/wp-content/uploads/2018/08/matrixrain.gif)
 
