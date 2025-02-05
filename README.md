@@ -1,5 +1,5 @@
 # 👾 Welcome to the Matrix
-
+|[.](https://upload.wikimedia.org/wikipedia/commons/c/cc/Digital_rain_animation_medium_letters_shine.gif)
 ```diff
 + SYSTEM ONLINE...
 + ACCESS GRANTED...
@@ -40,6 +40,6 @@
 
 🚀 **Welcome to the Dark Side of Code.**
 
-![Matrix Rain](https://upload.wikimedia.org/wikipedia/commons/c/cc/Digital_rain_animation_medium_letters_shine.gif)
+
 
 
