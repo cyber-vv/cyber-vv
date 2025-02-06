@@ -40,6 +40,6 @@
 
 🚀 **Welcome to the Dark Side of Code.**
 
-[Infinite](https://jollycontrarian.com/images/7/70/Matrix_rain.gif)
+![Matrix Rain](https://jollycontrarian.com/images/7/70/Matrix_rain.gif)
 
 
