@@ -1,45 +1,37 @@
-# 👾 Welcome to the Matrix
+# 👨‍💻 Cybersecurity | Reverse Engineering | Data Analytics
 
-```diff
-+ SYSTEM ONLINE...
-+ ACCESS GRANTED...
-```
+## 🔹 About Me
 
-## 🟢 Who Am I?
-🔹 Cybersecurity Enthusiast | Reverse Engineer | Data Alchemist  
-🔹 Passionate about exploiting vulnerabilities and fortifying systems  
-🔹 Skilled in Python 🐍 | SQL 🗄️ | Linux 🐧 | Bash 🎭 | Tableau 📊  
+I am a cybersecurity professional with a strong foundation in reverse engineering, data analytics, and system security. I specialize in identifying vulnerabilities, implementing secure solutions, and leveraging data to drive insights and automation. My work focuses on building intelligent, scalable, and secure systems that align with modern enterprise needs.
 
-```diff
-- DECODING SKILLSET...
-```
-## 💻 Core Abilities
-- 🔥 **Cybersecurity & Reverse Engineering** - Identifying threats and securing networks.
-- 🧠 **AI & Machine Learning** - Automating intelligence for smarter decision-making.
-- 📈 **Data Analytics** - Transforming raw data into actionable insights.
+---
 
-```diff
-- INITIATING EXPERTISE MODULE...
-```
-## ⚡ Fields of Operation
-🛠 **Red Teaming & Ethical Hacking** - Exploiting to secure.  
-📉 **Financial & Market Analytics** - Seeing through the matrix of data.  
-🔬 **Machine Vision & Automation** - Teaching machines to see beyond.  
+## 🛠️ Technical Skills
 
-```diff
-+ CONNECTING TO NETWORK...
-```
-## 📡 Contact & Access Points
-- **GitHub:** https://github.com/cyber-vv
+* **Programming & Scripting:** Python, Bash, SQL
+* **Operating Systems:** Linux (Security & Administration)
+* **Data Tools:** Tableau (Visualization & Reporting)
+* **Cybersecurity:** Ethical Hacking, Reverse Engineering, Threat Analysis
 
+---
 
-```diff
-+ TERMINATING TRACE...
-+ EXITING SYSTEM...
-```
+## 💼 Core Competencies
 
-🚀 **Welcome to the Dark Side of Code.**
+* **Cybersecurity & Reverse Engineering:** Analyzing and addressing security flaws in systems and applications.
+* **Artificial Intelligence & Machine Learning:** Developing intelligent models to automate and optimize decision-making processes.
+* **Data Analytics:** Extracting, analyzing, and visualizing data to produce actionable business insights.
 
-![Matrix Rain](https://jollycontrarian.com/images/7/70/Matrix_rain.gif)
+---
 
+## 🔍 Focus Areas
+
+* **Ethical Hacking & Red Teaming** – Performing offensive security testing to identify weaknesses before adversaries do.
+* **Financial & Market Data Analysis** – Analyzing financial data trends and patterns for informed decision-making.
+* **Computer Vision & Automation** – Building vision-based systems to automate tasks in security and operations.
+
+---
+
+## 📫 Contact
+
+* **GitHub:** [github.com/cyber-vv](https://github.com/cyber-vv)
 
