@@ -74,7 +74,7 @@ Then you're looking at the **right profile**.
 * 🔗 **GitHub**: [github.com/cyber-vv](https://github.com/cyber-vv)
 * 📨 *Available for collaboration, freelance, and full-time opportunities*
 
-![](https://nirzak-streak-stats.vercel.app/?user=cyber-vv&theme=rose&hide_border=false)<br/>
+
 
 ---
 
