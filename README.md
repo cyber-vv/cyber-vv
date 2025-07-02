@@ -74,6 +74,8 @@ Then you're looking at the **right profile**.
 * 🔗 **GitHub**: [github.com/cyber-vv](https://github.com/cyber-vv)
 * 📨 *Available for collaboration, freelance, and full-time opportunities*
 
+![](https://nirzak-streak-stats.vercel.app/?user=cyber-vv&theme=rose&hide_border=false)<br/>
+
 ---
 
 > **"Great minds automate intelligently, secure responsibly, and solve problems that matter. Let’s build the future — ethically, efficiently, and elegantly."**
