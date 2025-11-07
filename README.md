@@ -19,7 +19,7 @@
   <br>Generative AI
 </td>
     <td align="center" style="padding: 12px;">
-      <img src="https://matplotlib.org/_static/images/logo2.svg" width="48" height="48" alt="Matplotlib" /><br>Matplotlib
+      <img src="https://matplotlib.org/stable/_static/logo_dark.svg" width="48" height="48" alt="Matplotlib" /><br>Matplotlib
     </td>
     <td align="center" style="padding: 12px;">
       <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="48" height="48" alt="Scikit-learn" /><br>Scikit-learn
