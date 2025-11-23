@@ -1,4 +1,4 @@
-# 👨‍💻 AI & Automation Engineer | Software Developer | Cybersecurity Specialist
+# 👨‍💻 AI Engineer
 
 <h1 align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Digital_rain_animation_big_letters_shine.gif" width="34px" /> Tech Stack and Tools
