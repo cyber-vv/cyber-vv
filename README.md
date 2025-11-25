@@ -122,6 +122,315 @@ mindmap
 
 #
 
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {
+  'primaryColor':'#0d0d0d',
+  'primaryTextColor':'#39ff14',
+  'primaryBorderColor':'#39ff14',
+  'lineColor':'#00eaff',
+  'fontFamily':'monospace',
+  'fontSize':'18px'
+}}}%%
+
+graph TB
+    A[About Me]
+    B[AI-Driven Development]
+    C[Generative AI Expert]
+    D[Cybersecurity Specialist]
+    E[Data Analytics Pro]
+    F[Full-Stack AI Engineer]
+    G[Production-Grade Systems]
+    
+    A --> B
+    A --> C
+    A --> D
+    A --> E
+    A --> F
+    A --> G
+
+    classDef header fill:#0d0d0d,stroke:#f9ff00,stroke-width:5px,color:#f9ff00
+    classDef ai fill:#0d0d0d,stroke:#00eaff,stroke-width:4px,color:#00eaff
+    classDef gen fill:#0d0d0d,stroke:#39ff14,stroke-width:4px,color:#39ff14
+    classDef security fill:#0d0d0d,stroke:#ff00e6,stroke-width:4px,color:#ff00e6
+    classDef data fill:#0d0d0d,stroke:#00cfff,stroke-width:4px,color:#00cfff
+    classDef fullstack fill:#0d0d0d,stroke:#39ff14,stroke-width:4px,color:#39ff14
+    classDef production fill:#0d0d0d,stroke:#ff00e6,stroke-width:4px,color:#ff00e6
+
+    class A header
+    class B ai
+    class C gen
+    class D security
+    class E data
+    class F fullstack
+    class G production
+
+```
+#
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {
+  'primaryColor':'#0d0d0d',
+  'primaryTextColor':'#39ff14',
+  'primaryBorderColor':'#39ff14',
+  'lineColor':'#00eaff',
+  'fontFamily':'monospace',
+  'fontSize':'20px'
+}}}%%
+
+graph TB
+    A[Professional Summary]
+    
+    subgraph Versatile["Versatile Engineer"]
+        B1[AI & Automation]
+        B2[Cloud Infrastructure]
+        B3[Cybersecurity Focus]
+    end
+    
+    subgraph Python["Python Expert"]
+        C1[NLP Mastery]
+        C2[Computer Vision]
+        C3[Generative AI]
+    end
+    
+    subgraph Cloud["Cloud Native"]
+        D1[AWS SageMaker]
+        D2[EC2 & Lambda]
+        D3[Docker & K8s]
+    end
+    
+    subgraph Security["Security & Hacking"]
+        E1[Ethical Hacking]
+        E2[Reverse Engineering]
+        E3[Secure System Design]
+    end
+    
+    subgraph RPA["RPA Development"]
+        F1[UiPath]
+        F2[Automation Anywhere]
+        F3[Blue Prism]
+    end
+    
+    subgraph Data["Data Storytelling"]
+        G1[Tableau]
+        G2[Pandas & SQL]
+        G3[Strategic Insights]
+    end
+    
+    A --> Versatile
+    A --> Python
+    A --> Cloud
+    A --> Security
+    A --> RPA
+    A --> Data
+
+    classDef header fill:#0d0d0d,stroke:#f9ff00,stroke-width:5px,color:#f9ff00
+    classDef versatile fill:#0d0d0d,stroke:#00eaff,stroke-width:3px,color:#00eaff
+    classDef python fill:#0d0d0d,stroke:#39ff14,stroke-width:3px,color:#39ff14
+    classDef cloud fill:#0d0d0d,stroke:#ff00e6,stroke-width:3px,color:#ff00e6
+    classDef security fill:#0d0d0d,stroke:#00cfff,stroke-width:3px,color:#00cfff
+    classDef rpa fill:#0d0d0d,stroke:#39ff14,stroke-width:3px,color:#39ff14
+    classDef data fill:#0d0d0d,stroke:#ff00e6,stroke-width:3px,color:#ff00e6
+
+    class A header
+    class B1,B2,B3 versatile
+    class C1,C2,C3 python
+    class D1,D2,D3 cloud
+    class E1,E2,E3 security
+    class F1,F2,F3 rpa
+    class G1,G2,G3 data
+
+
+```
+
+#
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {
+  'primaryColor':'#0d0d0d',
+  'primaryTextColor':'#39ff14',
+  'primaryBorderColor':'#39ff14',
+  'lineColor':'#00eaff',
+  'fontFamily':'monospace',
+  'fontSize':'23px'
+}}}%%
+
+graph TB
+    A[Technical Arsenal]
+    
+    subgraph Programming["Programming Languages"]
+        B1[Python]
+        B2[SQL & Java]
+        B3[C & C++]
+        B4[Bash & JavaScript]
+        B5[React]
+    end
+    
+    subgraph AI["AI/ML/NLP"]
+        C1[TensorFlow]
+        C2[PyTorch]
+        C3[Scikit-learn]
+        C4[XGBoost]
+        C5[OpenCV]
+        C6[SpaCy & NLTK]
+    end
+    
+    subgraph RPA["RPA & Automation"]
+        D1[UiPath]
+        D2[Blue Prism]
+        D3[Automation Anywhere]
+        D4[Selenium]
+        D5[Ansible]
+    end
+    
+    subgraph Cloud["Cloud & DevOps"]
+        E1[AWS Services]
+        E2[Docker]
+        E3[Kubernetes]
+        E4[Git & CI/CD]
+    end
+    
+    subgraph Data["Data Tools"]
+        F1[Pandas & NumPy]
+        F2[SQL & NoSQL]
+        F3[ETL Pipelines]
+        F4[Tableau]
+    end
+    
+    subgraph Integration["Integration"]
+        G1[REST APIs]
+        G2[SOAP]
+        G3[Microservices]
+    end
+    
+    subgraph Critical["Critical Skills"]
+        H1[Prompt Engineering]
+        H2[Ethical AI]
+        H3[MLOps]
+        H4[Data Preprocessing]
+        H5[System Hardening]
+    end
+    
+    A --> Programming
+    A --> AI
+    A --> RPA
+    A --> Cloud
+    A --> Data
+    A --> Integration
+    A --> Critical
+
+    classDef header fill:#0d0d0d,stroke:#f9ff00,stroke-width:5px,color:#f9ff00
+    classDef prog fill:#0d0d0d,stroke:#00eaff,stroke-width:3px,color:#00eaff
+    classDef ai fill:#0d0d0d,stroke:#39ff14,stroke-width:3px,color:#39ff14
+    classDef rpa fill:#0d0d0d,stroke:#ff00e6,stroke-width:3px,color:#ff00e6
+    classDef cloud fill:#0d0d0d,stroke:#00cfff,stroke-width:3px,color:#00cfff
+    classDef data fill:#0d0d0d,stroke:#39ff14,stroke-width:3px,color:#39ff14
+    classDef integration fill:#0d0d0d,stroke:#ff00e6,stroke-width:3px,color:#ff00e6
+    classDef critical fill:#0d0d0d,stroke:#00eaff,stroke-width:3px,color:#00eaff
+
+    class A header
+    class B1,B2,B3,B4,B5 prog
+    class C1,C2,C3,C4,C5,C6 ai
+    class D1,D2,D3,D4,D5 rpa
+    class E1,E2,E3,E4 cloud
+    class F1,F2,F3,F4 data
+    class G1,G2,G3 integration
+    class H1,H2,H3,H4,H5 critical
+
+```
+
+#
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {
+  'primaryColor':'#0d0d0d',
+  'primaryTextColor':'#39ff14',
+  'primaryBorderColor':'#39ff14',
+  'lineColor':'#00eaff',
+  'fontFamily':'monospace',
+  'fontSize':'16px'
+}}}%%
+
+graph TB
+    A[Why Me]
+    
+    B[Engineers Solutions]
+    C[Technical Depth]
+    D[Business Impact]
+    E[Clear Communication]
+    F[Ownership Mindset]
+    G[Stays Ahead]
+    H[Ethics & Innovation]
+    
+    A --> B
+    A --> C
+    A --> D
+    A --> E
+    A --> F
+    A --> G
+    A --> H
+
+    classDef header fill:#0d0d0d,stroke:#f9ff00,stroke-width:5px,color:#f9ff00
+    classDef value1 fill:#0d0d0d,stroke:#00eaff,stroke-width:4px,color:#00eaff
+    classDef value2 fill:#0d0d0d,stroke:#39ff14,stroke-width:4px,color:#39ff14
+    classDef value3 fill:#0d0d0d,stroke:#ff00e6,stroke-width:4px,color:#ff00e6
+    classDef value4 fill:#0d0d0d,stroke:#00cfff,stroke-width:4px,color:#00cfff
+    classDef value5 fill:#0d0d0d,stroke:#39ff14,stroke-width:4px,color:#39ff14
+    classDef value6 fill:#0d0d0d,stroke:#ff00e6,stroke-width:4px,color:#ff00e6
+    classDef value7 fill:#0d0d0d,stroke:#00eaff,stroke-width:4px,color:#00eaff
+
+    class A header
+    class B value1
+    class C value2
+    class D value3
+    class E value4
+    class F value5
+    class G value6
+    class H value7
+
+```
+
+#
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {
+  'primaryColor':'#0d0d0d',
+  'primaryTextColor':'#39ff14',
+  'primaryBorderColor':'#39ff14',
+  'lineColor':'#00eaff',
+  'fontFamily':'monospace',
+  'fontSize':'16px'
+}}}%%
+
+graph TB
+    A[Connect]
+    
+    B[GitHub]
+    C[Collaboration]
+    D[Freelance]
+    E[Full-Time Opportunities]
+    
+    A --> B
+    A --> C
+    A --> D
+    A --> E
+
+    classDef header fill:#0d0d0d,stroke:#f9ff00,stroke-width:5px,color:#f9ff00
+    classDef conn1 fill:#0d0d0d,stroke:#00eaff,stroke-width:4px,color:#00eaff
+    classDef conn2 fill:#0d0d0d,stroke:#39ff14,stroke-width:4px,color:#39ff14
+    classDef conn3 fill:#0d0d0d,stroke:#ff00e6,stroke-width:4px,color:#ff00e6
+    classDef conn4 fill:#0d0d0d,stroke:#00cfff,stroke-width:4px,color:#00cfff
+
+    class A header
+    class B conn1
+    class C conn2
+    class D conn3
+    class E conn4
+
+```
+
+
+#
+
 <h2 align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Digital_rain_animation_big_letters_shine.gif" width="34px" /> Tech Stack and Tools
 </h2>
