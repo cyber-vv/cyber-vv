@@ -310,9 +310,9 @@ graph TB
 
 #
 
-<h2 align="left">
+<h1 align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Digital_rain_animation_big_letters_shine.gif" width="34px" /> Tech Stack and Tools
-</h2>
+</h1>
 
 <table style="border-collapse: collapse; width: 100%; max-width: 900px; margin: 20px auto; font-family: Arial, sans-serif;">
   <tr>
