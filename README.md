@@ -13,20 +13,20 @@
   'tertiaryColor':'#ff00e6',
   'tertiaryTextColor':'#0d0d0d',
   'tertiaryBorderColor':'#ff00e6',
-  'lineColor':'#00eaff',
+  'lineColor':'#ffffff',
   'textColor':'#39ff14',
-  'mainBkg':'#0d0d0d',
-  'secondBkg':'#0d0d0d',
+  'mainBkg':'#ffffff',
+  'secondBkg':'#ffffff',
   'fontFamily':'monospace',
-  'fontSize':'13px',
-  'edgeLabelBackground':'#0d0d0d',
-  'clusterBkg':'#1a1a1a',
-  'clusterBorder':'#00cfff',
-  'defaultLinkColor':'#00eaff'
+  'fontSize':'15px',
+  'edgeLabelBackground':'#ffffff',
+  'clusterBkg':'#ffffff',
+  'clusterBorder':'#ffffff',
+  'defaultLinkColor':'#ffffff'
 }}}%%
 
 mindmap
-  root((TECHNOLOGICAL<br/>CATALYST))
+  root((CYBER<br/>VV))
     About Me
       AI-Driven Development
       Generative AI Expert
